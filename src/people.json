@@ -1,0 +1,64 @@
+{
+  "people": [
+    {
+      "name": "Jacob",
+      "gender": "m",
+      "phone": "917828743"
+    },
+    {
+      "name": "Sharon",
+      "gender": "f",
+      "phone": "834850720"
+    },
+    {
+      "name": "Sharon",
+      "gender": "f",
+      "phone": "834850720"
+    },
+    {
+      "name": "George",
+      "gender": "m",
+      "phone": "807572253"
+    },
+    {
+      "name": "Olivia",
+      "gender": "f",
+      "phone": "124838643"
+    },
+    {
+      "name": "Harry",
+      "gender": "m",
+      "phone": "865221163"
+    },
+    {
+      "name": "Isabella",
+      "gender": "f",
+      "phone": "852045252"
+    },
+    {
+      "name": "Jack",
+      "gender": "m",
+      "phone": "601957425"
+    },
+    {
+      "name": "Sophia",
+      "gender": "f",
+      "phone": "379046891"
+    },
+    {
+      "name": "Charlie",
+      "gender": "m",
+      "phone": "549746038"
+    },
+    {
+      "name": "Emily",
+      "gender": "f",
+      "phone": "396412235"
+    },
+    {
+      "name": "Mila",
+      "gender": "f",
+      "phone": "228394724"
+    }
+  ]
+}
