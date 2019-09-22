@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Requirements
 <ul>
-  <li>You need to have Node.js installed in your mahcine</li>
+  <li>You need to have [Node.js](https://nodejs.org/en/download/) installed in your mahcine</li>
   <li>Command Line Interface(CLI) to run commands</li>
 </ul>
 
