@@ -1,3 +1,6 @@
+# About This Project
+This is a react contacts app where seaching feature is also implemented and also detailed information about a contact can also be displayed by clicking a individual element from the constacts list.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Requirements
