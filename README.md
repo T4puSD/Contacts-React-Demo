@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to rebuild the environment
   Clone this repository using git or download the zip format and unzip it.
-  ```cd Contacts-React-Demo``` or got to that unziped directory.
+  `cd Contacts-React-Demo` or got to that unziped directory.
   Open CMD/Terminal in that directory.
-  Type `npm install' and run this command in CLI/Teminal.
+  Type `npm install` and run this command in CLI/Teminal.
   After npm successfully install all dependecies.
-  Type `npm start' to start the development server on [https://localhost:3000](https://localhost:3000).
+  Type `npm start` to start the development server on [https://localhost:3000](https://localhost:3000).
